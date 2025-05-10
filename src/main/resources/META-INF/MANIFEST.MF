@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.example.springboot_k8s_learn.SpringbootK8sLearnApplicati
+ on
+
